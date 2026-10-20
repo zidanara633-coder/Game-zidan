@@ -25,4 +25,3 @@ jobs:
       with:
         name: game-zidan-apk
         path: ${{ steps.buildozer.outputs.filename }}
-concurrency: 
